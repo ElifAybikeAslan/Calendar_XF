@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Calendar_XF.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace Calendar_XF
 		{
 			InitializeComponent();
 
-			MainPage = new Calendar_XF.MainPage();
+			MainPage = new CalendarView();
 		}
 
 		protected override void OnStart ()

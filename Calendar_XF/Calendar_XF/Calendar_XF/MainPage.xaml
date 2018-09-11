@@ -4,10 +4,6 @@
              xmlns:local="clr-namespace:Calendar_XF"
              x:Class="Calendar_XF.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
-    <Button Text="gfhgh"/>
+	
 
 </ContentPage>

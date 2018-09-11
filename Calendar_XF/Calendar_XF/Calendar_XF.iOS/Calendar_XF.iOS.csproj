@@ -128,4 +128,10 @@
       <Name>Calendar_XF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ileri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\geri.png" />
+  </ItemGroup>
 </Project>
